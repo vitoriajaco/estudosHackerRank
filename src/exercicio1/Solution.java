@@ -1,3 +1,5 @@
+package exercicio1;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -11,11 +13,30 @@ public class Solution {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        int N = scanner.nextInt();
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        System.out.println("Digite um numero: ");
+        int  N = scanner.nextInt();
+
+        while (N >= 1 && N <= 100) {
+
+        }
+        System.out.println("Numero invalido: ");
 
 
+          /*  if ((N % 2 == 0 && N >= 2 && N <= 5)) { //se essa condição for V executa, senao executa a de baixo
+                System.out.println("validação 1 ");
 
+            }
+        } else
+            System.out.println("Numero invalido: ");
+            System.out.println("Digite um numero: ");
+            N =  scanner.nextInt();
+
+*/
+    }
+}
+
+
+/*
         if (N % 2 == 1) {
             System.out.println("Weird");
 
@@ -30,6 +51,7 @@ public class Solution {
 
         }
 
+        System.out.println("Entrou aqui");
 
     }
-}
+}*/
