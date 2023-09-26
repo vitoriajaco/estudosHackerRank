@@ -7,9 +7,8 @@ public class ConvertCelsiusToFahrenheint {
 
         Scanner sc = new Scanner(System.in);
 
-        char resp = 's';
-
-        while (resp != 'n') {
+        char resp;
+         do {
             System.out.print("Digite a temperatura em Celsius: ");
 
             double C = sc.nextDouble();
@@ -17,11 +16,7 @@ public class ConvertCelsiusToFahrenheint {
             System.out.printf("Esta temperatura " + C + "°C em Fahrentheint é de: %.1f%n", F); // %.1f%n corresponde a um valor de ponto flutuante. Sera inserido um valor com 1 casa decimal
             System.out.println("Deseja repetir (s/n)? ");
             resp = sc.next().charAt(0); //O charAt(0) serve para pegar o primeiro caracter da palavra pois corresponde ao index
-
-
-
-
-        }
+        } while (resp != 'n');
 
         sc.close();
     }
