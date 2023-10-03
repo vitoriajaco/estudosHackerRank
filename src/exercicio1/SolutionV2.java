@@ -28,7 +28,7 @@ public class SolutionV2 {
 
                     }
                 }
-                System.out.println("Numero fora do intervalo de 0 a 100, Jogue Novamente!");
+                System.out.println("Numero fora do intervalo de 1 a 100, Jogue Novamente!");
             }
         }
 }
