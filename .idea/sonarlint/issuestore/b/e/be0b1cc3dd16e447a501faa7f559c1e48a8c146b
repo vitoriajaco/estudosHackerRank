@@ -1,0 +1,23 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Not Weird" 3 times.(¯ıõ¶ûÿÿÿÿ8–ø‰º¯1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´í8ú¥¿¹¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êõ»ûÿÿÿÿ8ú¥¿¹¯1
+T
+java:S2589"7Remove this expression which always evaluates to "true"(ñÉ£†8ÊÄé¹¯1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8¸ø‰º¯1
+Z
+java:S1854"=Remove this useless assignment to local variable "continuar".(„ô”º8è©µº¯1
+Z
+java:S1854"=Remove this useless assignment to local variable "continuar".(„ô”º8³Åµº¯1
+Z
+java:S1854"=Remove this useless assignment to local variable "continuar".(„ô”º8ÁÜµº¯1
+G	java:S106"+Replace this use of System.out by a logger.(¼œé„8™¦¿¹¯1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 17.(å¥‡8ÇÜµº¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8™¦¿¹¯1
+L	java:S106"+Replace this use of System.out by a logger.(Ã€Ù¤øÿÿÿÿ8©¦¿¹¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8©¦¿¹¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8©¦¿¹¯1
+L	java:S106%"+Replace this use of System.out by a logger.(ˆÎãøÿÿÿÿ8¸ø‰º¯1
