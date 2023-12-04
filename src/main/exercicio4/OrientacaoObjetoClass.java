@@ -19,10 +19,13 @@ public class OrientacaoObjetoClass {
 
         System.out.println("Digite os valores ");
 
-        for (int i = 0; i < n; i++) {
-            Integer valor = sc.nextInt();
+        for (int i = 0;i < n ; i++) {
+            String valor = sc.next();
             printService.addValue(valor);
         }
+
+        printService.print();
+        System.out.println("O primeiro valor foi: " + printService.first());
 
 
 
