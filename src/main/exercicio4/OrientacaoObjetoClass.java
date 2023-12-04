@@ -12,7 +12,7 @@ public class OrientacaoObjetoClass {
 
         Scanner sc = new Scanner(System.in);
 
-        PrintService printService = new PrintService();
+        PrintService<String> printService = new PrintService();
 
         System.out.println("Quantos valores deseja receber? ");
         int n = sc.nextInt();
@@ -25,7 +25,8 @@ public class OrientacaoObjetoClass {
         }
 
         printService.print();
-        System.out.println("O primeiro valor foi: " + printService.first());
+        String x = printService.first();
+        System.out.println("O primeiro valor foi: " + x);
 
 
 
