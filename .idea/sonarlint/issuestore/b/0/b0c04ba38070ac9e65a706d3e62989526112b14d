@@ -1,0 +1,13 @@
+
+z	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ÁÍ¶à¯1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´í8ÂÍ¶à¯1
+G	java:S106"+Replace this use of System.out by a logger.(¼œé„8›Î¶à¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8œÎ¶à¯1
+G	java:S106"+Replace this use of System.out by a logger.(‚¸‹8Î¶à¯1
+L	java:S106"+Replace this use of System.out by a logger.(‚ªæ¾ÿÿÿÿÿ8Î¶à¯1
+L	java:S106"+Replace this use of System.out by a logger.(Ã€Ù¤øÿÿÿÿ8Î¶à¯1
+G	java:S106"+Replace this use of System.out by a logger.(‚¸‹8Î¶à¯1
+L	java:S106"+Replace this use of System.out by a logger.(‚ªæ¾ÿÿÿÿÿ8Î¶à¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8ŸÎ¶à¯1
+L	java:S106"+Replace this use of System.out by a logger.(ˆÎãøÿÿÿÿ8ŸÎ¶à¯1

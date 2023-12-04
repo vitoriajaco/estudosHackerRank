@@ -1,0 +1,21 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Not Weird" 3 times.(¯ıõ¶ûÿÿÿÿ8û¯¯ÿ¯1
+T
+java:S2589"7Remove this expression which always evaluates to "true"(ñÉ£†8É°¯ÿ¯1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8á°¯ÿ¯1
+Z
+java:S1854"=Remove this useless assignment to local variable "continuar".(„ô”º8â°¯ÿ¯1
+Z
+java:S1854"=Remove this useless assignment to local variable "continuar".(„ô”º8â°¯ÿ¯1
+Z
+java:S1854"=Remove this useless assignment to local variable "continuar".(„ô”º8â°¯ÿ¯1
+G	java:S106"+Replace this use of System.out by a logger.(¼œé„8ä°¯ÿ¯1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 18.(å¥‡8æ°¯ÿ¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8ç°¯ÿ¯1
+L	java:S106"+Replace this use of System.out by a logger.(Ã€Ù¤øÿÿÿÿ8è°¯ÿ¯1
+L	java:S106"+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8é°¯ÿ¯1
+L	java:S106 "+Replace this use of System.out by a logger.(¯ıõ¶ûÿÿÿÿ8ê°¯ÿ¯1
+L	java:S106&"+Replace this use of System.out by a logger.(ˆÎãøÿÿÿÿ8í°¯ÿ¯1
